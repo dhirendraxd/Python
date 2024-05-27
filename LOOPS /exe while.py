@@ -21,3 +21,14 @@ idx = 0
 while idx <len(nums) : 
     print(nums[idx])
     idx += 1
+#Idx is used in these to traverse or travlel the strings values that will later on continue all across the strings 
+
+
+hao = (2, 5, 64, 634)
+x=64
+i = 0
+while i < len(hao) :
+    if(num[i]==x) :
+        print("found",i)
+    i += 1
+
