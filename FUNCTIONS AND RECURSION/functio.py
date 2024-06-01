@@ -10,9 +10,8 @@ print(reault) # this willprint the data stored in reault by value
 
 print(function_ha(43)) # this will print the ouput of the given 43 
 
-def add(num1,num2):
+def add(num1, num2):
     return num1+num2
 
-print(add(34,54))
+print(add(34, 54))
 
-# polimorphism in function 
