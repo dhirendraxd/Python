@@ -1,6 +1,6 @@
-# Project Name
+# Python (SELF)
 
-A brief description of what your project does.
+This repository contains various Python scripts and exercises for learning and practicing Python programming concepts.
 
 ## Table of Contents
 
@@ -15,11 +15,11 @@ A brief description of what your project does.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourprojectname.git
+    git clone https://github.com/dhirendraxd/Python.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd yourprojectname
+    cd Python
     ```
 3. Create a virtual environment:
     ```bash
@@ -34,18 +34,15 @@ A brief description of what your project does.
         ```bash
         source venv/bin/activate
         ```
-5. Install the required packages:
+5. Install the required packages (if any):
     ```bash
     pip install -r requirements.txt
     ```
 
 ## Usage
 
-Provide examples on how to use your project. You can include code snippets and command-line instructions.
+Each folder contains Python scripts related to specific topics. Navigate to the desired folder and run the Python scripts. For example, to run a script in the `DICTIONARY AND SET` folder:
 
-```python
-# Example of how to use your code
-from yourmodule import yourfunction
-
-result = yourfunction()
-print(result)
+```bash
+cd "DICTIONARY AND SET"
+python script_name.py
