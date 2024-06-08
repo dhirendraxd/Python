@@ -1,1 +1,5 @@
-we can use terminal  as code hey.js or hey.py to creat a file of the respective '.' .  
+dhiren()this line is for appending .......... hey this is usign a in file IO 
+
+we use  "a"  for adding in the existing file 
+
+we use "w" for writing file deleting all the previous things in it  
